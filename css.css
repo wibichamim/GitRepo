@@ -1,0 +1,39 @@
+body{
+
+	background-color: navy;
+}
+p{
+	padding-top: 50px;
+	padding-bottom: 5cm;
+	padding-left: 50pt;
+	padding-right: 20px;
+	/*margin-left: 20px;*/
+	color: white;
+	border-color: white;
+	border: 10px;
+}
+.kuning {
+	text-decoration: line-through;
+	color: yellow;
+}
+.pink{
+	text-decoration: underline;
+	color: red;
+}
+
+h1{
+	color: orange;
+}
+
+#tes {
+	color: green;
+	text-align: center;
+
+}
+div{
+	align-self: center;
+	height: 500px;
+	width: 500px;
+	background-color: powderblue;
+	border: 100px dotted yellow;
+}
